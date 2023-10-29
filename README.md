@@ -38,4 +38,4 @@ We value your feedback and are here to assist you. If you have any questions, co
 
 Thank you for considering OrgPro as your partner in managing people, automating tasks, and ensuring data privacy and security. We look forward to serving your organization's needs. 🙌
 
-![Your Organization Logo]([link_to_logo](https://orgpro.tech/_next/image?url=%2Flogo_col.png&w=384&q=75))
+<img src="logo_col.png" alt="Your Logo">
