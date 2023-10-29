@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../logo_col.png" alt="Your Logo">
+<img src="https://github.com/OrgPro-tech/.github/blob/fe6c42f9924b8683fb2ee302d37cf1b87ed909a8/logo_col.png" alt="Your Logo">
 </p>
 
 # Welcome to OrgPro 👋
