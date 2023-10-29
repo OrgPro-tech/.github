@@ -1,3 +1,7 @@
+<p align="center">
+<img src="../logo_col.png" alt="Your Logo">
+</p>
+
 # Welcome to OrgPro 👋
 
 OrgPro is dedicated to providing innovative solutions to help organizations manage people, automate tasks, and ensure data privacy and security. Our primary mission is to empower businesses and institutions to streamline their operations efficiently and securely. We offer self-hosted platforms to give you complete control over your data privacy. 🔒
@@ -37,5 +41,3 @@ We value your feedback and are here to assist you. If you have any questions, co
 ## Contributing 🤝
 
 Thank you for considering OrgPro as your partner in managing people, automating tasks, and ensuring data privacy and security. We look forward to serving your organization's needs. 🙌
-
-![Your Organization Logo]([link_to_logo](https://orgpro.tech/_next/image?url=%2Flogo_col.png&w=384&q=75))
